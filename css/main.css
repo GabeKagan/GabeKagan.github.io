@@ -35,7 +35,7 @@ img {
 	padding: 5px;
 }
 
-@media (max-width: 480px) {
+@media (max-width: 600px) {
 
 	#topleftlogo {
 		display:none;
@@ -44,8 +44,9 @@ img {
 }
 
 #topleftlogo {
-
-	max-width: 100px;
+    max-width: 120px;
+    width: 100%;
+    height: auto;
 }
 
 #toptitle {
