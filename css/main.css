@@ -35,6 +35,14 @@ img {
 	padding: 5px;
 }
 
+@media (max-width: 480px) {
+
+	#topleftlogo {
+		display:none;
+	}
+
+}
+
 #topleftlogo {
 
 	max-width: 100px;
