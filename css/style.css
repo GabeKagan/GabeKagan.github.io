@@ -1,6 +1,36 @@
-hr {
+a {
+    color: #0000ff;
+}
 
+body {
+    background-color: #dedede;
+}
+
+h1, h2, h3, h4 {
+    font-family: Lato;
+    margin: 6px 0 6px 0;
+}
+
+h1 {
+    font-size:72px;
+}
+
+h2 {
+    font-size:48px;
+}
+
+
+hr {
     height: 10px;
     background-color: #aaaaaa;
+    margin: 10px 0px 10px 0px;
+}
 
+#topleftlogo {
+    max-width: 120px;
+}
+
+#bottomrow {
+    padding: 5px;
+    background-color: #bbbbff;
 }
