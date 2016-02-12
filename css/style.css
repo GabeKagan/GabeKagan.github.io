@@ -43,6 +43,10 @@ hr {
     font-family: Lato;
 }
 
+.rounded-image {
+    border-radius: 8px;
+}
+
 #bannerrow {
     margin-top: 5px;
 }
@@ -55,3 +59,4 @@ hr {
     padding: 5px;
     background-color: #bbbbff;
 }
+
