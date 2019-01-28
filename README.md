@@ -1,4 +1,4 @@
-GabeKagan.github.io
+JessicaKagan.github.io
 ===================
 
-Experimenting with Github's web hosting abilities.
+Please note this page is very old. I haven't had time to update it significantly since 2015.
